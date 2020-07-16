@@ -6,10 +6,10 @@ I really ♥ programming in general and to code in my spare time. I also make bl
 ## Badges
 <div style="display: flex">
   <a href="https://www.codewars.com/users/DevTony101">
-    <img src="https://www.codewars.com/users/DevTony101/badges/large" alt="Miguel Manjarres's DEV Profile">
+    <img src="https://www.codewars.com/users/DevTony101/badges/large" alt="Codewaras Profile Badge">
   </a>
   <a href="https://dev.to/devtony101">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Miguel Manjarres's DEV Profile" height="45" width="45">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile Badge" height="45" width="45">
   </a>
 </div>
 

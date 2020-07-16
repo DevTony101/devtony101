@@ -9,7 +9,7 @@ I really ♥ programming in general and to code in my spare time. I also make bl
     <img src="https://www.codewars.com/users/DevTony101/badges/large" alt="Miguel Manjarres's DEV Profile">
   </a>
   <a href="https://dev.to/devtony101">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Miguel Manjarres's DEV Profile" height="50" width="50">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Miguel Manjarres's DEV Profile" height="45" width="45">
   </a>
 </div>
 

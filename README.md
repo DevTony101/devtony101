@@ -1,7 +1,7 @@
 Hello there 👋! My name is **Miguel Manjarres**, I'm from **Colombia**, currently undergraduate in systems engineering and tech enthusiast.
 I really ♥ programming in general and to code in my spare time. Some technologies I enjoy working with include VueJS, SpringBoot (Java Web in general) and NodeJS.
 
-I also make blogs/post on **DEV**, check them out!
+I also make blogs/posts on **DEV**, check them out!
 
 **Pronouns**: He/Him.
 

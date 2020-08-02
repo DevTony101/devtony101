@@ -5,6 +5,10 @@ I also make blogs/posts on **DEV**, check them out!
 
 **Pronouns**: He/Him.
 
+## Stats
+![DevTony101's github stats](https://github-readme-stats.vercel.app/api?username=DevTony101&count_private=true&show_icons=true&hide=issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTony101&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Badges
 <div style="display: flex">
   <a href="https://www.codewars.com/users/DevTony101">

@@ -11,10 +11,10 @@ I also make blogs/posts on **DEV**, check them out!
 
 ## Badges
 <div style="display: flex">
-  <a href="https://www.codewars.com/users/DevTony101">
+  <a href="https://www.codewars.com/users/DevTony101" target="_blank">
     <img src="https://www.codewars.com/users/DevTony101/badges/large" alt="Codewars Profile Badge">
   </a>
-  <a href="https://dev.to/devtony101">
+  <a href="https://dev.to/devtony101" target="_blank">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile Badge" height="45" width="45">
   </a>
 </div>

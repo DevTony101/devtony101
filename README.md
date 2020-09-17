@@ -21,11 +21,6 @@ I also make blogs/posts on **DEV**, check them out!
   </a>
 </div>
 
-## Showcase
-In addition to my pinned repos, there's also...
-
-[![JFXGithub](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=JFXGithubClient)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **DevTony101/devtony101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

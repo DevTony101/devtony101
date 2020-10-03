@@ -3,7 +3,10 @@
 My name is **Miguel Manjarres**, I'm from **Colombia**, currently undergraduate in systems engineering and tech enthusiast.
 I really ♥ programming in general and to code in my spare time. Some technologies I enjoy working with include VueJS, SpringBoot (Java Web in general) and NodeJS.
 
-I also make blogs/posts on **DEV**, check them out!
+I also make blogs/posts/tutorials of various themes on:
+
+- [Medium](https://medium.com/@devtony101) (Español)
+- [DEV](https://dev.to/devtony101) (English)
 
 **Pronouns**: He/Him.
 
@@ -17,9 +20,6 @@ I also make blogs/posts on **DEV**, check them out!
 <div style="display: flex">
   <a href="https://www.codewars.com/users/DevTony101" target="_blank">
     <img src="https://www.codewars.com/users/DevTony101/badges/large" alt="Codewars Profile Badge">
-  </a>
-  <a href="https://dev.to/devtony101" target="_blank">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="DEV Profile Badge" height="45" width="45">
   </a>
 </div>
 

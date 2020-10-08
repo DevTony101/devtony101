@@ -38,14 +38,14 @@ I also make blogs/posts/tutorials of various themes on:
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S71U546)
 
-<samp>
+<p align="center">
   <a>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=DevTony101&count_private=true&show_icons=true&hide=issues" />
   </a>
   <a>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTony101&layout=compact" />
   </a>
-</samp>
+</p>
 
 <!--
 **DevTony101/devtony101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

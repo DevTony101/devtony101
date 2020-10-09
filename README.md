@@ -34,6 +34,7 @@ Some technologies I love to work with and in which I have quite some experience 
 </samp>
 
 <br>
+<br>
 
 I also make blogs/posts/tutorials of various themes on:
 

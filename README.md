@@ -1,9 +1,9 @@
 <p align="center" style="float: right">
-  <img alt="DevTony101's github stats" src="https://github-readme-stats.vercel.app/api?username=DevTony101&count_private=true&show_icons=true&hide=issues" />
+  <img alt="DevTony101's github stats" src="https://github-readme-stats.vercel.app/api?username=DevTony101&count_private=true&show_icons=true&hide=issues&theme=vue" />
 </p>
 
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
-My name is **Miguel Manjarres**, I'm from **Colombia**, currently undergraduate in systems engineering and tech enthusiast.
+My name is **Miguel Manjarres**, I'm from **Colombia** , currently undergraduate in systems engineering and tech enthusiast.
 
 Some technologies I love to work with and in which I have quite some experience include:
 

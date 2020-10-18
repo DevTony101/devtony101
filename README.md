@@ -3,7 +3,7 @@
 </p>
 
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!
-My name is **Miguel Manjarres**, I'm from **Colombia** , currently undergraduate in systems engineering and tech enthusiast.
+My name is **Miguel Manjarres**, I'm from **Colombia** , currently a systems engineering student and tech enthusiast.
 
 Some technologies I love to work with and in which I have quite some experience include:
 

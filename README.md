@@ -32,7 +32,7 @@ I also make blogs/posts/tutorials of various themes on:
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S71U546)
 
 ### Fun Projects
-Here are some projects that I had fun making, take a look!
+Here are some projects that I had fun making, take a look! They are 100% interactive.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=gasteroids&show_owner=true)](https://github.com/DevTony101/gasteroids)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=fleeing-points-clock&show_owner=true)](https://github.com/DevTony101/fleeing-points-clock)

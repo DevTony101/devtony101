@@ -36,6 +36,7 @@ Here are some projects that I had fun making, take a look! They are 100% interac
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=gasteroids&show_owner=true)](https://github.com/DevTony101/gasteroids)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=fleeing-points-clock&show_owner=true)](https://github.com/DevTony101/fleeing-points-clock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=js-todo-app-indexed_db&show_owner=true)](https://github.com/DevTony101/js-todo-app-indexed_db)
 
 <!--
 **DevTony101/devtony101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

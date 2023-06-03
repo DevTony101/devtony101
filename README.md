@@ -8,7 +8,7 @@ My name is **Miguel Manjarres**, I'm from **Colombia** , currently a systems eng
 Some technologies I love to work with and in which I have quite some experience include:
 
 <samp>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
@@ -31,12 +31,13 @@ I also make blogs/posts/tutorials of various themes on:
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S71U546)
 
-### Fun Projects
+### Fun/Interesting Projects
 Here are some projects that I had fun making, take a look! They are 100% interactive.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=js-todo-app-indexed_db&show_owner=true)](https://github.com/DevTony101/js-todo-app-indexed_db)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=gasteroids&show_owner=true)](https://github.com/DevTony101/gasteroids)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=fleeing-points-clock&show_owner=true)](https://github.com/DevTony101/fleeing-points-clock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevTony101&repo=infix-expression-parser&show_owner=true)](https://github.com/DevTony101/infix-expression-parser)
 
 <!--
 **DevTony101/devtony101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

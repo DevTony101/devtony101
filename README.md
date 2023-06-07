@@ -27,10 +27,6 @@ I also make blogs/posts/tutorials of various themes on:
 - [Medium](https://medium.com/@devtony101) (Español)
 - [DEV](https://dev.to/devtony101) (English)
 
-**Pronouns**: He/Him.
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S71U546)
-
 ### Fun/Interesting Projects
 Here are some projects that I had fun making, take a look! They are 100% interactive.
 

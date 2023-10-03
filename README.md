@@ -2,7 +2,7 @@
   <img alt="DevTony101's github stats" src="https://github-readme-stats.vercel.app/api?username=DevTony101&count_private=true&show_icons=true&hide=issues&theme=vue" />
 </p>
 
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20px">!
+### Hello there 👋!
 My name is **Miguel Manjarres**, I'm from **Colombia** , currently a systems engineering student and tech enthusiast.
 
 Some technologies I love to work with and in which I have quite some experience include:
